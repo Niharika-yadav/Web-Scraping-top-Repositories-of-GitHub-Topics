@@ -42,4 +42,6 @@ List the dependencies required to run the project.
 - **Any other libraries**
 
 # License
-"This project is licensed under the MIT License - see the  file for details."
+"This project is licensed under the MIT License - see the ![LICENSE](LICENSE) file for details."
+
+[LIC](https://github.com/Niharika-yadav/Web-Scraping-top-Repositories-of-GitHub-Topics/blob/efe444931f30ee3acefce4802c1a9451b074053c/LICENSE)
