@@ -42,4 +42,4 @@ List the dependencies required to run the project.
 - **Any other libraries**
 
 # License
-"This project is licensed under the MIT License - see the ![LICENSE]() file for details."
+"This project is licensed under the MIT License - see the  file for details."
