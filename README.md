@@ -45,6 +45,6 @@ List the dependencies required to run the project.
 "This project is licensed under the MIT License - see the [LICENSE](https://github.com/Niharika-yadav/Web-Scraping-top-Repositories-of-GitHub-Topics/blob/efe444931f30ee3acefce4802c1a9451b074053c/LICENSE)
  file for details."
 
-# Acknowledgements
+# Acknowledgement
 
 I would like to express my sincere gratitude to the open-source community, especially GitHub, for providing the platform and data that made this project possible. I also want to thank the developers of the Python libraries I used—such as BeautifulSoup, Requests, and Pandas—for their excellent tools and documentation. Lastly, a big thank you to my mentors, peers, and the online communities that offered valuable guidance and support throughout the project.
